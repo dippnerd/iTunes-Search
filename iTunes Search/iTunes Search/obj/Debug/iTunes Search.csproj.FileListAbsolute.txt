@@ -1,0 +1,62 @@
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\ApplicationInsights.config
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\csc.exe
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\vbc.exe
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\VBCSCompiler.exe
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\iTunes Search.dll.config
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\iTunes Search.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\iTunes Search.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Antlr3.Runtime.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.Web.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.ApplicationInsights.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Newtonsoft.Json.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Helpers.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Mvc.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Optimization.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Razor.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.WebPages.Deployment.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.WebPages.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.WebPages.Razor.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\WebGrease.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.Web.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.ApplicationInsights.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Helpers.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Mvc.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Optimization.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Razor.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.WebPages.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.WebPages.Deployment.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.WebPages.Razor.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Antlr3.Runtime.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\Newtonsoft.Json.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\obj\Debug\iTunes Search.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\obj\Debug\iTunes Search.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\EntityFramework.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\EntityFramework.SqlServer.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\EntityFramework.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\EntityFramework.SqlServer.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Net.Http.Formatting.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Http.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Http.WebHost.dll
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Net.Http.Formatting.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Http.xml
+c:\users\aaron\documents\visual studio 2015\Projects\iTunes Search\iTunes Search\bin\System.Web.Http.WebHost.xml

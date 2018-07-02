@@ -1,0 +1,39 @@
+﻿@model iTunes_Search.Models.ResultObject
+
+
+@{
+    ViewBag.Title = "Search Results";
+    string searchQuery = ViewBag.Query;
+}
+<h3>Search Results: @searchQuery</h3>
+
+@Html.Hidden("SearchQuery", searchQuery, new { id = "SearchQuery" })
+
+@if (Model.resultCount > 0)
+{
+    <div class="table-responsive">
+        <table class="table table-responsive table-striped">
+            <thead>
+                <tr>
+                    <th>Artist</th>
+                    <th>Track</th>
+                    <th>Collection</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var result in Model.results)
+                {
+                    <tr>
+                        <td><a href="@result.artistViewUrl" class="trackable" id="artist-@result.artistId">@result.artistName</a></td>
+                        <td><a href="@result.trackViewUrl" class="trackable" id="track-@result.trackId">@result.trackName</a></td>
+                        <td><a href="@result.collectionViewUrl" class="trackable" id="collection-@result.collectionId">@result.collectionName</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <p>No results</p>
+}
